@@ -1,0 +1,12 @@
+{
+	"user": "h2o-variable",
+	"repo": "sampctl-package",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
